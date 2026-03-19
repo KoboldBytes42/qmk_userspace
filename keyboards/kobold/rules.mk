@@ -1,0 +1,13 @@
+OLED_ENABLE = yes
+#RGBLIGHT_ENABLE = yes
+#RGBLIGHT_SPLIT = yes
+RGB_MATRIX_ENABLE = yes
+#ENCODER_ENABLE = no
+VIA_ENABLE = no
+#SPLIT_KEYBOARD = yes
+KEYMAP = samurai
+COMBO_ENABLE = yes
+UNICODE_COMMON = yes
+#UNICODEMAP_ENABLE = yes
+
+#all done in keyboarg.json now
